@@ -2,6 +2,7 @@ name: Wisen
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.37252
+title: Wisen
 cta:
   domain: null
   bucket: null
