@@ -1,0 +1,28 @@
+name: Wisen
+favicon: null
+layout_spectrum: 0.6768858281429857
+typography_spectrum: 0.3899136045947671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22452024556696415
+  lightness: 0.16361066652461886
+  saturation: 0.8551753528881818
+  rhythmicContrast: 0.644250244833529
+purpose: []
